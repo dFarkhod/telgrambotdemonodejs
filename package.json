@@ -1,0 +1,15 @@
+{
+  "name": "demobot2",
+  "version": "1.0.0",
+  "description": "sample telegram bots",
+  "main": "buyurtma.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Farkhod Dadajanov",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "telegraf": "^3.38.0"
+  }
+}
